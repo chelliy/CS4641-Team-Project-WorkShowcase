@@ -1,8 +1,6 @@
 # Machine Learning Project Proposal
 R. Davis Liddell, Ethan Perry, Qingzhi You, Weihao Zhang, Zheyong Zhu
 
-Github Page: https://github.gatech.edu/eperry35/ML_Project
-
 Presentation Recording: https://bluejeans.com/s/Fho8BHo_Az2
 
 # Introduction: 
